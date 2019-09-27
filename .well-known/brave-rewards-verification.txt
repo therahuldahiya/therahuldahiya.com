@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: therahuldahiya.com
+Token: 8893451d000ef4b2f9dba1be8eeca9f84b91db61689f3ff431c5e8d78127af82
