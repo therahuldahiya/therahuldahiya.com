@@ -423,6 +423,13 @@ strong {
   background-color: #222a51;
 }
 
+
+.about-container-width {
+  width: 50vw;
+  margin: 0 auto;
+}
+
+
 .loading-circle__inner {
   position: absolute;
   left: 50%;
